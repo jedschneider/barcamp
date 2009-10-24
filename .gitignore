@@ -1,0 +1,9 @@
+#.gitignore file
+.DS_Store # for mac users
+config/database.yml
+log/*.log
+tmp/**/*
+doc/api
+doc/app
+vedor/plugins/*
+vendor/gems/*
